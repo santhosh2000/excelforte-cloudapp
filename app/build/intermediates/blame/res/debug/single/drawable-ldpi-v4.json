@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_lock_outline_black_24dp.png",
+        "source": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\smartloginlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_lock_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\google_plus_vector.png",
+        "source": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\smartloginlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\google_plus_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_person_outline_black_24dp.png",
+        "source": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\smartloginlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_person_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\facebook_vector.png",
+        "source": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\smartloginlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\facebook_vector.png"
+    }
+]

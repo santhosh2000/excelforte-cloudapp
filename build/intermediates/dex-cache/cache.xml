@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\santh\.android\build-cache\f16c72e1984c47fff8a2d61f8daac3956cb13389\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a4f3afbb468f0a098916b721215283b80d0ca5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e8326c4a7a539cc27da9ef73445c5d2eaceec359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da7cb554dc5035ea2f39da164eb5fa0a4f358ffd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b8db9e782b5e5b83e4c1906ccca44c7209e9a52">
+        <dex dex="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_05b4dbd919d86a50b737444d380ed49cd685d28d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santh\.android\build-cache\b5bd61b37bbebd4f45b123cf95692b4ce2b8c10f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32f92bc776ebae3124ae8db2839685d72f253feb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6945a1bb2a407ba05624b8020b978125e44a4920">
+        <dex dex="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ff8b9c3395a5a1e82fbeca618300afc903bd29e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_53b2f9e981592bedf428d70fa9722a75407cac1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c94cb24b12242dbc5a775b51116935f94124efff\classes.dex" />
+    </item>
+
+</items>

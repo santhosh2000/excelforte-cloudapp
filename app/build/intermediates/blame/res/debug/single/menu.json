@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_smart_login.xml",
+        "source": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\smartloginlibrary\\build\\intermediates\\bundles\\default\\res\\menu\\menu_smart_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

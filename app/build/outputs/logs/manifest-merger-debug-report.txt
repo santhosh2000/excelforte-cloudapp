@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\santh\.android\build-cache\f16c72e1984c47fff8a2d61f8daac3956cb13389\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:7:5-26:19
+MERGED from [Android-Smart-Login-master - Copy:smartloginlibrary:unspecified] C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\smartloginlibrary\build\intermediates\bundles\default\AndroidManifest.xml:17:5-24:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\santh\.android\build-cache\116530e57f67a287b651a9487d7616cd22284a1b\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\santh\.android\build-cache\15d7deaa1a4a06ef8ac1537c1e2339cd35d1230e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\santh\.android\build-cache\994d150a2b6f89e80f399587038113a522cd116f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-auth:10.2.0] C:\Users\santh\.android\build-cache\333a45dad732ff3260d38ef68393960029b93cd6\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.android.support:design:22.2.0] C:\Users\santh\.android\build-cache\b5bd61b37bbebd4f45b123cf95692b4ce2b8c10f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\santh\.android\build-cache\146c807c68b6abfecd4b280933bd767cbd2a458c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\santh\.android\build-cache\96051cd4fc91cd1aa8560eebd0ff04fd551c68a1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\santh\.android\build-cache\e2798fb9c44449c67bcea562b15e2d8d7d2e1c56\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\santh\.android\build-cache\b2310b7018b50342a048161f8c9126e5ad55243f\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\santh\.android\build-cache\f16c72e1984c47fff8a2d61f8daac3956cb13389\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\santh\.android\build-cache\d91dc335304592e71e2044b6329517d0d15963e1\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\santh\.android\build-cache\31f27b8e0abb132c675d8067511c05b2f212915b\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\santh\.android\build-cache\a21976844c17f4d4159ec3c962a5508f8fbb2620\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\santh\.android\build-cache\ca8323db06396b29026dfe4f53e5e1eb55e604d6\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\santh\.android\build-cache\f647c18df0c5c958cfd1f1787c78c780247d5b25\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\santh\.android\build-cache\af0ad475f61033e6d843ab489546850b3a7d498e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\santh\.android\build-cache\d7b8076cda865b0fe9e9bc1664b79e0879eec78d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\santh\.android\build-cache\ac81743e9e5be8c09967629a67b38e9fea8572f9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\santh\.android\build-cache\77212bacb0e046ffa747f603df49180adabac194\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\santh\.android\build-cache\1ce006b7823318cd9fcc6f722327d9f051d6b515\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:11:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:12:9-107
+	android:value
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:12:66-105
+	android:name
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:12:20-65
+activity#studios.codelight.smartlogin.MainActivity
+ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:19:27-74
+activity#studios.codelight.smartlogin.SignUpActivity
+ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:22:9-25:20
+	android:label
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:24:13-46
+	android:name
+		ADDED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml:23:13-43
+uses-sdk
+INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Android-Smart-Login-master - Copy:smartloginlibrary:unspecified] C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\smartloginlibrary\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\santh\.android\build-cache\116530e57f67a287b651a9487d7616cd22284a1b\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\santh\.android\build-cache\15d7deaa1a4a06ef8ac1537c1e2339cd35d1230e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\santh\.android\build-cache\994d150a2b6f89e80f399587038113a522cd116f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] C:\Users\santh\.android\build-cache\0fd92239aba675e4766e9da0b38cfd1e1b0f9dd6\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] C:\Users\santh\.android\build-cache\333a45dad732ff3260d38ef68393960029b93cd6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:22.2.0] C:\Users\santh\.android\build-cache\b5bd61b37bbebd4f45b123cf95692b4ce2b8c10f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\santh\.android\build-cache\146c807c68b6abfecd4b280933bd767cbd2a458c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\santh\.android\build-cache\96051cd4fc91cd1aa8560eebd0ff04fd551c68a1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\santh\.android\build-cache\e2798fb9c44449c67bcea562b15e2d8d7d2e1c56\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\santh\.android\build-cache\b2310b7018b50342a048161f8c9126e5ad55243f\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\santh\.android\build-cache\f16c72e1984c47fff8a2d61f8daac3956cb13389\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\santh\.android\build-cache\d91dc335304592e71e2044b6329517d0d15963e1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\santh\.android\build-cache\31f27b8e0abb132c675d8067511c05b2f212915b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\santh\.android\build-cache\a21976844c17f4d4159ec3c962a5508f8fbb2620\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\santh\.android\build-cache\ca8323db06396b29026dfe4f53e5e1eb55e604d6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\santh\.android\build-cache\f647c18df0c5c958cfd1f1787c78c780247d5b25\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\santh\.android\build-cache\af0ad475f61033e6d843ab489546850b3a7d498e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\santh\.android\build-cache\d7b8076cda865b0fe9e9bc1664b79e0879eec78d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\santh\.android\build-cache\ac81743e9e5be8c09967629a67b38e9fea8572f9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\santh\.android\build-cache\77212bacb0e046ffa747f603df49180adabac194\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\santh\.android\build-cache\1ce006b7823318cd9fcc6f722327d9f051d6b515\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\santh\.android\build-cache\146c807c68b6abfecd4b280933bd767cbd2a458c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\app\src\main\AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [Android-Smart-Login-master - Copy:smartloginlibrary:unspecified] C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\smartloginlibrary\build\intermediates\bundles\default\AndroidManifest.xml:18:9-23:45
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\santh\.android\build-cache\116530e57f67a287b651a9487d7616cd22284a1b\output\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from [Android-Smart-Login-master - Copy:smartloginlibrary:unspecified] C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\smartloginlibrary\build\intermediates\bundles\default\AndroidManifest.xml:21:13-48
+	android:configChanges
+		ADDED from [Android-Smart-Login-master - Copy:smartloginlibrary:unspecified] C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\smartloginlibrary\build\intermediates\bundles\default\AndroidManifest.xml:20:13-96
+	android:theme
+		ADDED from [Android-Smart-Login-master - Copy:smartloginlibrary:unspecified] C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\smartloginlibrary\build\intermediates\bundles\default\AndroidManifest.xml:22:13-72
+		REJECTED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\santh\.android\build-cache\116530e57f67a287b651a9487d7616cd22284a1b\output\AndroidManifest.xml:32:13-63
+	tools:replace
+		ADDED from [Android-Smart-Login-master - Copy:smartloginlibrary:unspecified] C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\smartloginlibrary\build\intermediates\bundles\default\AndroidManifest.xml:23:13-42
+	android:name
+		ADDED from [Android-Smart-Login-master - Copy:smartloginlibrary:unspecified] C:\Users\santh\AndroidStudioProjects\Android-Smart-Login-master - Copy\smartloginlibrary\build\intermediates\bundles\default\AndroidManifest.xml:19:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\santh\.android\build-cache\116530e57f67a287b651a9487d7616cd22284a1b\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\santh\.android\build-cache\116530e57f67a287b651a9487d7616cd22284a1b\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\santh\.android\build-cache\116530e57f67a287b651a9487d7616cd22284a1b\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\santh\.android\build-cache\116530e57f67a287b651a9487d7616cd22284a1b\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\santh\.android\build-cache\116530e57f67a287b651a9487d7616cd22284a1b\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\santh\.android\build-cache\116530e57f67a287b651a9487d7616cd22284a1b\output\AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\santh\.android\build-cache\15d7deaa1a4a06ef8ac1537c1e2339cd35d1230e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\santh\.android\build-cache\994d150a2b6f89e80f399587038113a522cd116f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\santh\.android\build-cache\146c807c68b6abfecd4b280933bd767cbd2a458c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\santh\.android\build-cache\96051cd4fc91cd1aa8560eebd0ff04fd551c68a1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\santh\.android\build-cache\e2798fb9c44449c67bcea562b15e2d8d7d2e1c56\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\santh\.android\build-cache\f647c18df0c5c958cfd1f1787c78c780247d5b25\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\santh\.android\build-cache\af0ad475f61033e6d843ab489546850b3a7d498e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\santh\.android\build-cache\d7b8076cda865b0fe9e9bc1664b79e0879eec78d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\santh\.android\build-cache\ac81743e9e5be8c09967629a67b38e9fea8572f9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\santh\.android\build-cache\77212bacb0e046ffa747f603df49180adabac194\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\santh\.android\build-cache\1ce006b7823318cd9fcc6f722327d9f051d6b515\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\santh\.android\build-cache\15d7deaa1a4a06ef8ac1537c1e2339cd35d1230e\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\santh\.android\build-cache\15d7deaa1a4a06ef8ac1537c1e2339cd35d1230e\output\AndroidManifest.xml:23:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\santh\.android\build-cache\5fd9d0d5b2f6830e8c2bcb6236faaa4b3ce01504\output\AndroidManifest.xml:24:18-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\santh\.android\build-cache\f16c72e1984c47fff8a2d61f8daac3956cb13389\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\santh\.android\build-cache\f16c72e1984c47fff8a2d61f8daac3956cb13389\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\santh\.android\build-cache\f16c72e1984c47fff8a2d61f8daac3956cb13389\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\santh\.android\build-cache\f16c72e1984c47fff8a2d61f8daac3956cb13389\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\santh\.android\build-cache\699c6479b0c6928848bc8ca1924dc2f7a66eebec\output\AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\santh\.android\build-cache\d91dc335304592e71e2044b6329517d0d15963e1\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\santh\.android\build-cache\d91dc335304592e71e2044b6329517d0d15963e1\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\santh\.android\build-cache\d91dc335304592e71e2044b6329517d0d15963e1\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\santh\.android\build-cache\d91dc335304592e71e2044b6329517d0d15963e1\output\AndroidManifest.xml:19:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\santh\.android\build-cache\6ceb17a726889414737a652271e8b4a1c141704d\output\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\santh\.android\build-cache\31f27b8e0abb132c675d8067511c05b2f212915b\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\santh\.android\build-cache\31f27b8e0abb132c675d8067511c05b2f212915b\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\santh\.android\build-cache\31f27b8e0abb132c675d8067511c05b2f212915b\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\santh\.android\build-cache\31f27b8e0abb132c675d8067511c05b2f212915b\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\santh\.android\build-cache\31f27b8e0abb132c675d8067511c05b2f212915b\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\santh\.android\build-cache\ca8323db06396b29026dfe4f53e5e1eb55e604d6\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\santh\.android\build-cache\ca8323db06396b29026dfe4f53e5e1eb55e604d6\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\santh\.android\build-cache\ca8323db06396b29026dfe4f53e5e1eb55e604d6\output\AndroidManifest.xml:20:20-65

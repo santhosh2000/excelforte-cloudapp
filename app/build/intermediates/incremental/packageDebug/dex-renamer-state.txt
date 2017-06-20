@@ -1,0 +1,7 @@
+#Tue Jun 20 09:35:30 IST 2017
+base.0=C\:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_53b2f9e981592bedf428d70fa9722a75407cac1e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_05b4dbd919d86a50b737444d380ed49cd685d28d\\classes.dex
+base.1=C\:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_05b4dbd919d86a50b737444d380ed49cd685d28d
+file.0=C\:\\Users\\santh\\AndroidStudioProjects\\Android-Smart-Login-master - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_53b2f9e981592bedf428d70fa9722a75407cac1e\\classes.dex

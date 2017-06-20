@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">941559827310-e8h77ph6odshosn72soofjrl8kt5ea2d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://loginpagedeluxe.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">941559827310</string>
+    <string name="google_api_key" translatable="false">AIzaSyCrqRfrNMF_7I919mwOeraWqk-MD0T4jLE</string>
+    <string name="google_app_id" translatable="false">1:941559827310:android:4e229e86587be8e8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCrqRfrNMF_7I919mwOeraWqk-MD0T4jLE</string>
+    <string name="google_storage_bucket" translatable="false">loginpagedeluxe.appspot.com</string>
+</resources>

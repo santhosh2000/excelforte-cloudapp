@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "941559827310",
+    "firebase_url": "https://loginpagedeluxe.firebaseio.com",
+    "project_id": "loginpagedeluxe",
+    "storage_bucket": "loginpagedeluxe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941559827310:android:4e229e86587be8e8",
+        "android_client_info": {
+          "package_name": "studios.codelight.smartlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941559827310-kslr2691iouajhocfkbld7plu7mkdrku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studios.codelight.smartlogin",
+            "certificate_hash": "9af813cae3556fd1ef172d5f4ad819a21fda0a95"
+          }
+        },
+        {
+          "client_id": "941559827310-e8h77ph6odshosn72soofjrl8kt5ea2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrqRfrNMF_7I919mwOeraWqk-MD0T4jLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941559827310-e8h77ph6odshosn72soofjrl8kt5ea2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
