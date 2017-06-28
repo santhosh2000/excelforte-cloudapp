@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    android:background="@drawable/logopay"
+    android:visibility="visible"
+    android:fitsSystemWindows="true">
+    <TextView
+    android:id="@+id/welcome_title"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="16dp"
+    android:layout_marginTop="16dp"
+    android:text="Welcome to ExcelForte"
+        android:textAppearance="?android:textAppearanceLarge"
+    android:textColor="#ddd"
+    android:textSize="30sp"
+    android:textStyle="bold" />
+    <TextView
+        android:id="@+id/welcome_messgae"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/welcome_title"
+        android:text="Here, you will have a firsthand experience of this app!"
+        android:textColor="#FF1744"
+        android:textSize="18sp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="Log In"
+        android:textColor="#fff"
+        android:id = "@+id/logged_In"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_alignParentLeft="true"
+        android:layout_gravity="bottom"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="Sign Up"
+        android:textColor="#fff"
+        android:id="@+id/sign_In"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_check"
+        android:text = "I ACCEPT AND AGREE TO ALL OF ITS TERMS AND CONDITIONS "
+        android:layout_gravity = "bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        />
+
+
+
+
+
+
+    </RelativeLayout>
